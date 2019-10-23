@@ -1,0 +1,7 @@
+C:\Users\CORSO 45\Downloads\Programmazione OOP\EserciziADO\EserciziADO\bin\Debug\EserciziADO.exe.config
+C:\Users\CORSO 45\Downloads\Programmazione OOP\EserciziADO\EserciziADO\bin\Debug\EserciziADO.exe
+C:\Users\CORSO 45\Downloads\Programmazione OOP\EserciziADO\EserciziADO\bin\Debug\EserciziADO.pdb
+C:\Users\CORSO 45\Downloads\Programmazione OOP\EserciziADO\EserciziADO\obj\Debug\EserciziADO.csprojAssemblyReference.cache
+C:\Users\CORSO 45\Downloads\Programmazione OOP\EserciziADO\EserciziADO\obj\Debug\EserciziADO.csproj.CoreCompileInputs.cache
+C:\Users\CORSO 45\Downloads\Programmazione OOP\EserciziADO\EserciziADO\obj\Debug\EserciziADO.exe
+C:\Users\CORSO 45\Downloads\Programmazione OOP\EserciziADO\EserciziADO\obj\Debug\EserciziADO.pdb
